@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321671261591",
+    "project_id": "login-signin-c6f29",
+    "storage_bucket": "login-signin-c6f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321671261591:android:609671fee44e7d9da0e8d2",
+        "android_client_info": {
+          "package_name": "com.example.login_sigin_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Kjditt_1f4oL0uVl8iU2tRWbSFd7gZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
